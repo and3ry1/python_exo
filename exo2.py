@@ -1,3 +1,5 @@
+#demande êge et dire à quel categorie appartient pour le prix du billet
+
 age = int(input("quel âge avez vous ?: "))
 if age > 59:
     print("vous êtes senior, le billet est à 35 euros")
